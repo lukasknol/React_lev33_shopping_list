@@ -1,4 +1,4 @@
-# **Opdracht React Boodschappenlijst & Winkelmand**
+# **Exercise: React Boodschappenlijst & Winkelmand**
 
 Winc Academy - React - Level 33: Boodschappenlijst & Winkelmand
 
